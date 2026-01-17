@@ -1273,6 +1273,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### HOL Standards SDK
+<div><a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/hashgraph-online/standards-sdk"><img src="https://img.shields.io/github/stars/hashgraph-online/standards-sdk?style=social" alt="GitHub stars"></a></div>
+
+<p>⚙️ Development Frameworks</p>
+
+<p>The Hashgraph Online Standards SDK provides the RegistryBrokerClient - a typed, batteries-included wrapper around the Universal Agentic Registry. Enables AI agent discovery, registration, blockchain-based identity (ERC-8004, UAIDs), chat relay, and autonomous commerce via x402 protocol with Zod-backed validation</p>
+
+<p><a href="https://hol.org/">website</a> | <a href="https://github.com/hashgraph-online/standards-sdk">github</a> | <a href="https://hol.org/docs/libraries/standards-sdk/overview/">docs</a> | <a href="https://hol.org/registry">registry</a></p>
+</div>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
